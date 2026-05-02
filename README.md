@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="assets/header.png" alt="Guess The Number – Car Race Edition" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:FF4B4B,100:FF914D&height=200&section=header&text=🎯%20Guess%20The%20Number&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Car%20Race%20Edition%20%7C%20Streamlit%20Web%20App&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
